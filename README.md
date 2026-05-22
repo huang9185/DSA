@@ -1,6 +1,6 @@
-# NeetCode Solutions — @huang9185
+DAS — @huang9185
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-4zzj2xlr`
+> Partially synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-4zzj2xlr`
 
 ---
 
